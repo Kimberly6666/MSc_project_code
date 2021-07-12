@@ -1,0 +1,4 @@
+This version avoid the loop issue (optimset function in 1st version).
+In pre-processing, deal with empty value and spike value. Also, EMD and PCA are applied.
+However, the best accuracy is 49%.
+Using all features results in overfitting.
